@@ -1,0 +1,14 @@
+{
+  "name": "it-logger",
+  "version": "1.0.0",
+  "description": "It Logger",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "author": "Jossy Amos",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
